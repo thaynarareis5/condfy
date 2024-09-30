@@ -1,0 +1,181 @@
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <div style="width: 1080px; height: 497px; left: 0px; top: 0px; position: absolute; background: #564493"></div>
+    <div style="width: 280.70px; height: 86.80px; left: 400px; top: 80px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 280.71px; height: 86.83px; position: relative">
+            <div style="width: 86.71px; height: 86.83px; left: 0px; top: 0px; position: absolute; background: white"></div>
+            <div style="width: 8.50px; height: 19.60px; left: 21.70px; top: 60.10px; position: absolute; background: white"></div>
+            <div style="width: 29.60px; height: 31.40px; left: 134.41px; top: 31.30px; position: absolute; background: white"></div>
+            <div style="width: 26.81px; height: 30.90px; left: 168.01px; top: 31.20px; position: absolute; background: white"></div>
+            <div style="width: 23.60px; height: 45.12px; left: 232.01px; top: 16.88px; position: absolute; background: white"></div>
+            <div style="width: 26.70px; height: 31.41px; left: 106.21px; top: 31.40px; position: absolute; background: white"></div>
+            <div style="width: 28.90px; height: 45.30px; left: 198.91px; top: 17.40px; position: absolute; background: white"></div>
+            <div style="width: 26.90px; height: 45.01px; left: 253.80px; top: 31.60px; position: absolute; background: white"></div>
+        </div>
+    </div>
+    <img style="width: 860px; height: 500px; left: 110px; top: 247px; position: absolute" src="https://via.placeholder.com/860x500" />
+    <div style="width: 98px; height: 113px; left: 730px; top: 727px; position: absolute; background: #191919; border: 5px #191919 solid"></div>
+    <div style="left: 757px; top: 862px; position: absolute; text-align: center; color: #191919; font-size: 24px; font-family: Noto Sans; font-weight: 700; letter-spacing: 0.72px; word-wrap: break-word">Kaio Leão<br/>Título/Cargo</div>
+    <div style="left: 129px; top: 884px; position: absolute; text-align: center; color: #191919; font-size: 24px; font-family: Noto Sans; font-weight: 700; letter-spacing: 0.72px; word-wrap: break-word">Danilo Copi<br/>Título/Cargo</div>
+    <div style="left: 82px; top: 1019px; position: absolute; text-align: center; color: #191919; font-size: 70px; font-family: Noto Sans; font-weight: 300; word-wrap: break-word">Olá! <br/>Obrigado por se juntar a nós</div>
+    <div style="height: 472px; left: 110px; top: 1369px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 60px; display: inline-flex">
+        <div style="align-self: stretch; text-align: justify"><span style="color: #191919; font-size: 32px; font-family: Noto Sans; font-weight: 400; word-wrap: break-word">Estamos muito felizes em tê-lo conosco em uma parceria que tem tudo para ser um </span><span style="color: #191919; font-size: 32px; font-family: Noto Sans; font-weight: 700; word-wrap: break-word">sucesso!</span></div>
+        <div style="align-self: stretch; text-align: justify"><span style="color: #191919; font-size: 32px; font-family: Noto Sans; font-weight: 400; word-wrap: break-word">Para começar sua jornada, trouxemos alguns materiais </span><span style="color: #191919; font-size: 32px; font-family: Noto Sans; font-weight: 700; word-wrap: break-word">gratuitos</span><span style="color: #191919; font-size: 32px; font-family: Noto Sans; font-weight: 400; word-wrap: break-word">  e </span><span style="color: #191919; font-size: 32px; font-family: Noto Sans; font-weight: 700; word-wrap: break-word">personalizados com a sua marca</span><span style="color: #191919; font-size: 32px; font-family: Noto Sans; font-weight: 400; word-wrap: break-word">,</span><span style="color: #191919; font-size: 32px; font-family: Noto Sans; font-weight: 700; word-wrap: break-word"> </span><span style="color: #191919; font-size: 32px; font-family: Noto Sans; font-weight: 400; word-wrap: break-word">que podem te ajudar a aproveitar ao máximo a nossa solução e </span><span style="color: #191919; font-size: 32px; font-family: Noto Sans; font-weight: 700; word-wrap: break-word">alavancar as suas vendas</span><span style="color: #191919; font-size: 32px; font-family: Noto Sans; font-weight: 400; word-wrap: break-word">.</span></div>
+        <div style="align-self: stretch; text-align: justify; color: #191919; font-size: 32px; font-family: Noto Sans; font-weight: 400; word-wrap: break-word">Não deixe de conferir e, caso tenha alguma duvida, é só mandar um oi que a nossa equipe responderá rapidinho!</div>
+    </div>
+    <div style="width: 860px; left: 110px; top: 3885px; position: absolute; text-align: justify; color: #191919; font-size: 32px; font-family: Noto Sans; font-weight: 400; word-wrap: break-word">Não esqueça de acompanhar as nossas redes sociais, por lá estamos sempre compartilhando novidades.</div>
+    <div style="width: 860px; height: 0px; left: 110px; top: 1289px; position: absolute; border: 2px #D9D9D9 solid"></div>
+    <div style="width: 860px; height: 0px; left: 110px; top: 1921px; position: absolute; border: 2px #D9D9D9 solid"></div>
+    <div style="width: 860px; height: 0px; left: 110px; top: 3805px; position: absolute; border: 2px #D9D9D9 solid"></div>
+    <div style="width: 1080px; height: 199px; left: 0px; top: 4030px; position: absolute">
+        <div style="width: 1080px; height: 199px; left: 0px; top: 0px; position: absolute; background: #564493"></div>
+        <div style="width: 152px; height: 89px; left: 100px; top: 55px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: inline-flex">
+            <div style="align-self: stretch; text-align: justify; color: #E8E6F0; font-size: 24px; font-family: Noto Sans; font-weight: 500; word-wrap: break-word">Redes sociais</div>
+            <div style="justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+                <div style="width: 32px; height: 32px; position: relative">
+                    <div style="width: 26.67px; height: 26.67px; left: 2.67px; top: 2.67px; position: absolute; background: #E8E6F0"></div>
+                </div>
+                <div style="width: 32px; height: 32px; position: relative">
+                    <div style="width: 25px; height: 25px; left: 3.50px; top: 3.50px; position: absolute; background: #E8E6F0"></div>
+                </div>
+                <div style="width: 32px; height: 32px; position: relative">
+                    <div style="width: 24px; height: 24px; left: 4px; top: 4px; position: absolute; background: #E8E6F0"></div>
+                </div>
+            </div>
+        </div>
+        <div style="width: 266px; height: 137px; left: 714px; top: 31px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; gap: 22px; display: inline-flex">
+            <div style="align-self: stretch; text-align: justify; color: #E8E6F0; font-size: 24px; font-family: Noto Sans; font-weight: 500; word-wrap: break-word">Canais de atendimento</div>
+            <div style="height: 82px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 16px; display: flex">
+                <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                    <div style="width: 24px; height: 24px; position: relative">
+                        <div style="width: 19.90px; height: 20px; left: 2.05px; top: 2px; position: absolute; background: #E8E6F0"></div>
+                    </div>
+                    <div style="text-align: justify; color: #E8E6F0; font-size: 24px; font-family: Noto Sans; font-weight: 500; word-wrap: break-word">14 2109-3633</div>
+                </div>
+                <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                    <div style="width: 24px; height: 24px; position: relative">
+                        <div style="width: 18px; height: 18px; left: 3px; top: 3px; position: absolute; background: #E8E6F0"></div>
+                    </div>
+                    <div style="text-align: justify; color: #E8E6F0; font-size: 24px; font-family: Noto Sans; font-weight: 500; word-wrap: break-word">14 2109-3633</div>
+                </div>
+            </div>
+        </div>
+        <div style="left: 447px; top: 156px; position: absolute; text-align: justify; color: #E8E6F0; font-size: 20px; font-family: Noto Sans; font-weight: 400; text-decoration: underline; word-wrap: break-word">www.condfy.com.br</div>
+    </div>
+    <div style="height: 520px; left: 16px; top: 2651px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+        <div style="width: 508px; height: 297px; position: relative">
+            <img style="width: 508px; height: 267px; left: 0px; top: 30px; position: absolute; box-shadow: -4px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 10.08px" src="https://via.placeholder.com/508x267" />
+            <div style="width: 51px; height: 60px; padding: 8px; left: 16px; top: 0px; position: absolute; background: #564493; border-radius: 16px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+                <div style="text-align: justify; color: #E8E6F0; font-size: 32px; font-family: Noto Sans; font-weight: 500; word-wrap: break-word">03</div>
+            </div>
+        </div>
+        <div style="align-self: stretch; height: 207px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+            <div style="align-self: stretch; text-align: center; color: #191919; font-size: 24px; font-family: Noto Sans; font-weight: 700; word-wrap: break-word">Vídeo Tutorial do App</div>
+            <div style="align-self: stretch; text-align: justify; color: #191919; font-size: 24px; font-family: Noto Sans; font-weight: 300; word-wrap: break-word">Utilize este vídeo para apresentar a potenciais clientes. Publique em suas redes sociais, sites etc etc etc etc etc etc etc etc etc etc etc etc, et.</div>
+            <div style="width: 508px; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; background: #191919; border-radius: 8px; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+                <div style="width: 24px; height: 24px; position: relative">
+                    <div style="width: 16px; height: 16px; left: 4px; top: 4px; position: absolute; background: white"></div>
+                </div>
+                <div style="text-align: justify; color: white; font-size: 20px; font-family: Noto Sans; font-weight: 500; text-decoration: underline; word-wrap: break-word">Fazer Download</div>
+            </div>
+        </div>
+    </div>
+    <div style="height: 520px; left: 16px; top: 2073px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+        <div style="width: 508px; height: 297px; position: relative">
+            <img style="width: 508px; height: 267px; left: 0px; top: 30px; position: absolute; box-shadow: -4px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 10.08px" src="https://via.placeholder.com/508x267" />
+            <div style="width: 51px; height: 60px; padding: 8px; left: 16px; top: 0px; position: absolute; background: #564493; border-radius: 16px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+                <div style="text-align: justify; color: #E8E6F0; font-size: 32px; font-family: Noto Sans; font-weight: 500; word-wrap: break-word">01</div>
+            </div>
+        </div>
+        <div style="align-self: stretch; height: 207px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+            <div style="align-self: stretch; text-align: center; color: #191919; font-size: 24px; font-family: Noto Sans; font-weight: 700; word-wrap: break-word">Vídeo Divulgação para Vendas</div>
+            <div style="align-self: stretch; text-align: justify; color: #191919; font-size: 24px; font-family: Noto Sans; font-weight: 300; word-wrap: break-word">Utilize este vídeo para apresentar a potenciais clientes. Publique em suas redes sociais, sites etc etc etc etc etc etc etc etc etc etc etc etc, et.</div>
+            <div style="width: 508px; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; background: #191919; border-radius: 8px; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+                <div style="width: 24px; height: 24px; position: relative">
+                    <div style="width: 16px; height: 16px; left: 4px; top: 4px; position: absolute; background: white"></div>
+                </div>
+                <div style="text-align: justify; color: white; font-size: 20px; font-family: Noto Sans; font-weight: 500; text-decoration: underline; word-wrap: break-word">Fazer Download</div>
+            </div>
+        </div>
+    </div>
+    <div style="height: 520px; left: 556px; top: 2073px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+        <div style="width: 508px; height: 297px; position: relative">
+            <img style="width: 508px; height: 267px; left: 0px; top: 30px; position: absolute; box-shadow: -4px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 10.08px" src="https://via.placeholder.com/508x267" />
+            <div style="width: 51px; height: 60px; padding: 8px; left: 16px; top: 0px; position: absolute; background: #564493; border-radius: 16px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+                <div style="text-align: justify; color: #E8E6F0; font-size: 32px; font-family: Noto Sans; font-weight: 500; word-wrap: break-word">02</div>
+            </div>
+        </div>
+        <div style="align-self: stretch; height: 207px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+            <div style="align-self: stretch; text-align: center; color: #191919; font-size: 24px; font-family: Noto Sans; font-weight: 700; word-wrap: break-word">Vídeo Divulgação de Implantação do App</div>
+            <div style="align-self: stretch; text-align: justify; color: #191919; font-size: 24px; font-family: Noto Sans; font-weight: 300; word-wrap: break-word">Utilize este vídeo para apresentar a potenciais clientes. Publique em suas redes sociais, sites etc etc etc etc etc etc etc etc etc etc etc etc, et.</div>
+            <div style="width: 508px; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; background: #191919; border-radius: 8px; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+                <div style="width: 24px; height: 24px; position: relative">
+                    <div style="width: 16px; height: 16px; left: 4px; top: 4px; position: absolute; background: white"></div>
+                </div>
+                <div style="text-align: justify; color: white; font-size: 20px; font-family: Noto Sans; font-weight: 500; text-decoration: underline; word-wrap: break-word">Fazer Download</div>
+            </div>
+        </div>
+    </div>
+    <div style="width: 73.42px; height: 219.41px; left: 121.94px; top: 643.25px; position: absolute; background: #191919; border: 5px #191919 solid"></div>
+    <div style="height: 520px; left: 556px; top: 2651px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+        <div style="width: 508px; height: 297px; position: relative">
+            <img style="width: 508px; height: 267px; left: 0px; top: 30px; position: absolute; box-shadow: -4px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 10.08px" src="https://via.placeholder.com/508x267" />
+            <div style="width: 51px; height: 60px; padding: 8px; left: 16px; top: 0px; position: absolute; background: #564493; border-radius: 16px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+                <div style="text-align: justify; color: #E8E6F0; font-size: 32px; font-family: Noto Sans; font-weight: 500; word-wrap: break-word">04</div>
+            </div>
+        </div>
+        <div style="align-self: stretch; height: 207px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+            <div style="align-self: stretch; text-align: center; color: #191919; font-size: 24px; font-family: Noto Sans; font-weight: 700; word-wrap: break-word">Guia do usuário</div>
+            <div style="align-self: stretch; text-align: justify; color: #191919; font-size: 24px; font-family: Noto Sans; font-weight: 300; word-wrap: break-word">Utilize este vídeo para apresentar a potenciais clientes. Publique em suas redes sociais, sites etc etc etc etc etc etc etc etc etc etc etc etc, et.</div>
+            <div style="width: 508px; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; background: #191919; border-radius: 8px; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+                <div style="width: 24px; height: 24px; position: relative">
+                    <div style="width: 16px; height: 16px; left: 4px; top: 4px; position: absolute; background: white"></div>
+                </div>
+                <div style="text-align: justify; color: white; font-size: 20px; font-family: Noto Sans; font-weight: 500; text-decoration: underline; word-wrap: break-word">Fazer Download</div>
+            </div>
+        </div>
+    </div>
+    <div style="height: 520px; left: 286px; top: 3205px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+        <div style="width: 508px; height: 297px; position: relative">
+            <img style="width: 508px; height: 267px; left: 0px; top: 30px; position: absolute; background: linear-gradient(0deg, white 0%, white 100%); box-shadow: -4px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 10.08px" src="https://via.placeholder.com/508x267" />
+            <div style="width: 51px; height: 60px; padding: 8px; left: 16px; top: 0px; position: absolute; background: #564493; border-radius: 16px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+                <div style="text-align: justify; color: #E8E6F0; font-size: 32px; font-family: Noto Sans; font-weight: 500; word-wrap: break-word">05</div>
+            </div>
+        </div>
+        <div style="align-self: stretch; height: 207px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+            <div style="align-self: stretch; text-align: center; color: #191919; font-size: 24px; font-family: Noto Sans; font-weight: 700; word-wrap: break-word">Banner</div>
+            <div style="align-self: stretch; text-align: justify; color: #191919; font-size: 24px; font-family: Noto Sans; font-weight: 300; word-wrap: break-word">Utilize este vídeo para apresentar a potenciais clientes. Publique em suas redes sociais, sites etc etc etc etc etc etc etc etc etc etc etc etc, et.</div>
+            <div style="width: 508px; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; background: #F5F5F5; border-radius: 8px; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+                <div style="width: 24px; height: 24px; position: relative">
+                    <div style="width: 16px; height: 16px; left: 4px; top: 4px; position: absolute; background: black"></div>
+                </div>
+                <div style="text-align: justify; color: #191919; font-size: 20px; font-family: Noto Sans; font-weight: 500; text-decoration: underline; word-wrap: break-word">Fazer Download</div>
+            </div>
+        </div>
+    </div>
+    <div style="width: 1074px; padding: 16px; left: 3px; top: 1961px; position: absolute; background: white; border-radius: 16px; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+        <div style="text-align: justify; color: black; font-size: 24px; font-family: Noto Sans; font-weight: 400; word-wrap: break-word">Faça o download dos materiais e comece a usar!</div>
+        <div style="width: 40px; height: 40px; position: relative">
+            <div style="width: 13.80px; height: 8.16px; left: 1.18px; top: 15.84px; position: absolute; background: #CA2C31"></div>
+            <div style="width: 22.78px; height: 21.46px; left: 1.62px; top: 17.64px; position: absolute; background: #A02422"></div>
+            <div style="width: 6.99px; height: 9.55px; left: 15.60px; top: 29.44px; position: absolute; background: #CA2C31"></div>
+            <div style="width: 13.09px; height: 11.58px; left: 2.25px; top: 25.20px; position: absolute; background: #F7D74D"></div>
+            <div style="width: 9.38px; height: 8.31px; left: 4.66px; top: 26.65px; position: absolute; background: #FBF0B4"></div>
+            <div style="width: 7.42px; height: 7.30px; left: 9.71px; top: 23.26px; position: absolute; background: #858585"></div>
+            <div style="width: 19.57px; height: 21.35px; left: 15.66px; top: 7.67px; position: absolute; background: #437687"></div>
+            <div style="width: 4.35px; height: 2.63px; left: 21.25px; top: 23.75px; position: absolute; background: #3F545F"></div>
+            <div style="width: 22.28px; height: 23.47px; left: 11.29px; top: 5.04px; position: absolute; background: #8DAFBF"></div>
+            <div style="width: 11.95px; height: 11.68px; left: 26.37px; top: 1.39px; position: absolute; background: #D83F22"></div>
+            <div style="width: 8.51px; height: 10.89px; left: 14.32px; top: 14.23px; position: absolute; background: #6896A5"></div>
+            <div style="width: 6.25px; height: 12.01px; left: 32.48px; top: 1.89px; position: absolute; background: #A02422"></div>
+            <div style="width: 15.50px; height: 15.62px; left: 12.28px; top: 6.29px; position: absolute; background: #B3E1EE"></div>
+            <div style="width: 7.57px; height: 5.22px; left: 26.55px; top: 2.78px; position: absolute; background: #ED6A65"></div>
+            <div style="width: 7.33px; height: 7.34px; left: 21.79px; top: 11.24px; position: absolute; background: #E1E1E1"></div>
+            <div style="width: 5.26px; height: 5.32px; left: 22.81px; top: 12.28px; position: absolute; background: #3F545F"></div>
+            <div style="width: 10.65px; height: 11.34px; left: 7.23px; top: 22.26px; position: absolute; background: #A02524"></div>
+            <div style="width: 11.14px; height: 10.82px; left: 6.63px; top: 22.11px; position: absolute; background: #CA2C31"></div>
+            <div style="width: 1.54px; height: 1.56px; left: 5.69px; top: 11.35px; position: absolute; background: white"></div>
+            <div style="width: 1.13px; height: 1.15px; left: 12.66px; top: 10.98px; position: absolute; opacity: 0.50; background: white"></div>
+            <div style="width: 19.63px; height: 27.28px; left: 16.13px; top: 2.62px; position: absolute; background: white"></div>
+        </div>
+    </div>
+</div>
